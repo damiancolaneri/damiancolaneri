@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @aquiroot
 
 - 👀 I’m interested in work in an international open source team.
-- 🌱 I’m currently learning fronted and backend in javascript.
+- 🌱 I’m currently learning frontend and backend in javascript.
 - 💞️ I am looking to collaborate in projects of social and ecological impact.
 
 📫 How to reach me:
