@@ -6,8 +6,9 @@
 
 📫 How to reach me:
 
-- [instagram](https://www.instagram.com/aquiroot)
+- [Instagram](https://www.instagram.com/aquiroot)
 - [LinkedIn](https://www.linkedin.com/in/dcolaneri)
+- [Telegram](t.me/dcolaneri)
 
 <!---
 aquiroot/aquiroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
