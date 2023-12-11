@@ -8,7 +8,7 @@ Passionate and curious about technology. I learn something new every day.
 
 * 🌍  I'm based in Buenos Aires, Argentina.
 * ✉️  You can contact me at [Telegram](https://t.me/dcolaneri)
-* 🚀  I'm currently working on [Adviters]([https://t3tic.com.ar](https://adviters.com/))
+* 🚀  I'm currently working on [Adviters](https://adviters.com)
 * 🤝  I'm open to collaborating on open source projects with teams around the world!
 * ⚡  I prefer the night before the day, coffee and music lover.
 
